@@ -58,6 +58,8 @@ int main()
 
         }
         if(code==5){
+            printf("dianjihuichetuichuxitong\n");
+            break;
 
         }
 
