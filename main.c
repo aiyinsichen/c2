@@ -35,7 +35,15 @@ int main()
 
         }
         if(code==3){
-             
+             char x;
+             int i=0;
+             printf("xianshisuoyouyijingtianjiademinganzifu\n");
+             for(;i<index;i++){
+                 printf("%c\n",arr[i]);
+             }
+             printf("dainjihuichejixu\n");
+             scanf("%c",&x);
+             scanf("%c",&x);
         }
         if(code==4){
 
