@@ -18,7 +18,18 @@ int main()
         
         scanf("%d",&code);
         if(code==1){
-             
+            char a;
+            char x;
+            printf("qingshuruyaocucundeminganzifu\n");
+            scanf("%c",&x);
+            scanf("%c",&x);
+
+            arr[index]=a;
+            index=index+1;
+
+            printf("tianjiachenggong,dianjihuichejixu\n");
+            scanf("%c",&x);
+            scanf("%c",&x);   
         }
         if(code==2){
 
