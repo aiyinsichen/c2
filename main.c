@@ -1,8 +1,39 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
+    char arr[1024];
+    int index=0;
+    int code=0;
 
-    printf("hello world!");
+    printf("jinruminganciguanlixitong\n");
+    while(1){
+        printf("1--tianjiayigeminganzifu\n");
+        printf("2--shanchuzuihouyigeminganzifu\n");
+        printf("3--xianshisuoyouminganzifu\n");
+        printf("4--tihuanminganzifu\n");
+        printf("5--tuichu\n");
+
+        printf("qingshuruxiangyingdegongnengbianhao\n");
+        
+        scanf("%d",&code);
+        if(code==1){
+             
+        }
+        if(code==2){
+
+        }
+        if(code==3){
+
+        }
+        if(code==4){
+
+        }
+        if(code==5){
+
+        }
+
+    }
 
     return 0;
 
